@@ -1,4 +1,4 @@
-# Hi there:wave:
+# Hi there
 
 This is Rifat Zaman here. I'm a Frontend Web Developer with experience creating responsive web applications and implementing complex UI/UX designs. Currently working with international teams on various projects.
 
