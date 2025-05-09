@@ -22,9 +22,20 @@ This is Rifat Zaman here. I'm a Frontend Web Developer with experience creating 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifatzaman5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifatzaman5&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatzaman5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rifatzaman5&show_icons=true&theme=radical" alt="Rifat Zaman's GitHub Stats" />
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatzaman5&theme=radical&hide_border=true" alt="Rifat Zaman's GitHub Streak" />
+</div>
+
+<!-- Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rifatzaman5&layout=compact&theme=radical" alt="Rifat Zaman's Top Languages" />
+</div>
 
 ## 🏆 Professional Experience:
 - **UI/UX Designer & Frontend Developer** at Dynamic Service Solutions, UK (Remote) - Nov 2024 - Present
