@@ -27,11 +27,6 @@ This is Rifat Zaman here. I'm a Frontend Web Developer with experience creating 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rifatzaman5&show_icons=true&theme=radical" alt="Rifat Zaman's GitHub Stats" />
 </div>
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatzaman5&theme=radical&hide_border=true" alt="Rifat Zaman's GitHub Streak" />
-</div>
-
 <!-- Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rifatzaman5&layout=compact&theme=radical" alt="Rifat Zaman's Top Languages" />
